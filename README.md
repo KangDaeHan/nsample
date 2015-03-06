@@ -8,7 +8,7 @@ I wonder to returning your built web site URL with mail to "naiyumie@gmail.com" 
 
 ## Documentation
 
-flow to link here(https://github.com/naiyumie/nboard/tree/master/ref).
+flow to link here(https://github.com/naiyumie/nsample/tree/master/ref).
 
 you necessary to pdf viewer and Korean reading product skill.
 
