@@ -1,4 +1,4 @@
-# [naiyumie board]
+# [nsample]
 
 ## Introduce
 
@@ -17,14 +17,14 @@ you necessary to pdf viewer and Korean reading product skill.
 We must think to "thank you" for opensource creators.
 
 opensource uses and quotation :
-jQuery / MIT
-jQuery UI / MIT
-jQuery Cookie Plugin v1.4.1 / MIT
-jQuery FlexSlider v2.2.2 / MIT GPL2
-Placeholders.js
-selectivizr v1.0.2 / MIT
-HTML5 Shiv v3.6.2pre | @afarkas @jdalton @jon_neal @rem | MIT/GPL2
-Modernizr 2.8.3 (Custom Build) | MIT & BSD
+*jQuery / MIT
+*jQuery UI / MIT
+*jQuery Cookie Plugin v1.4.1 / MIT
+*jQuery FlexSlider v2.2.2 / MIT GPL2
+*Placeholders.js
+*selectivizr v1.0.2 / MIT
+*HTML5 Shiv v3.6.2pre | @afarkas @jdalton @jon_neal @rem | MIT/GPL2
+*Modernizr 2.8.3 (Custom Build) | MIT & BSD
 
 
 ## Copyright and license
