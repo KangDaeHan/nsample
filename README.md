@@ -4,6 +4,8 @@
 
 The "nsample" is publishing skeleton code.
 
+it's publishing works to definition standard rules and conventions.
+
 I wonder to returning your built web site URL with mail to "naiyumie@gmail.com" :D
 
 ## Documentation
@@ -45,7 +47,7 @@ if you lovely cathy girl kiss on me for my contribute. ㅡ3-)♡
 
 [nsample]
 
-소개 : n샘플은 퍼블리싱 스켈레톤 코드입니다.
+소개 : n샘플은 퍼블리싱 스켈레톤 코드입니다. 그것은 퍼블리싱 작업시 표준 규칙과 컨벤션 규칙을 정의합니다.
 이 코드를 사용하여 웹사이트를 만들었다면 URL을 제 메일로 보내주세요. 꼭이요!
 문서 : 이곳의 링크를 따라가시고 pdf 뷰어와 한국 언어의 읽는 능력이 필요합니다.
 기반기술 : 오픈소스 제작자에게 감사하다는 생각을 가집시다. 오픈소스 목록.
